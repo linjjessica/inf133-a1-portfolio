@@ -1,16 +1,4 @@
 .DS_Store
 
 # Temporary: don't push big assets
-*.png
-*.jpg
-*.jpeg
-*.ttf
-*.otf
 
-!images/header/
-!images/header/**
-!images/experience/technologies/
-!images/experience/technologies/**
-!fonts/
-!fonts/*.ttf
-!fonts/*.otf

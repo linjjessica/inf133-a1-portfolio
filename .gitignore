@@ -1,4 +1,4 @@
-.DS_Store*.mov
+*.mov
 
 # Temporary: don't push big assets
 *.png
